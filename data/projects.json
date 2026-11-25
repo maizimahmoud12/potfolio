@@ -9,13 +9,14 @@
     "stack": ["Computer Vision", "Drones", "Embedded Systems", "Python"],
     "shortDescription": "Intelligent drone system for real-time monitoring of construction sites.",
     "description": "Designed and developed an intelligent drone-based monitoring system using computer vision for real-time analysis of construction sites. The system tracks workers, materials, and activities while generating KPIs to enhance safety and productivity. Integrated embedded hardware components (GPS, ESC, flight controller) with software processing for autonomous and efficient operation.",
-    "thumbnail": "assets/images/internal-request-management1.png",
-    "gallery": [
-      "assets/images/internal-request-management1.png",
-      "assets/images/internal-request-management2.png",
-      "assets/images/internal-request-management3.png",
-      "assets/images/internal-request-management4.png"
-    ],
+      "thumbnail": "assets/images/drone 1.jpg",
+  "gallery": [
+    "assets/images/drone 1.jpg",
+    "assets/images/drone2.jpg",
+    "assets/images/drone3.jpg",
+    "assets/images/drone4.jpg"
+  ],
+
     "video": "",
     "liveUrl": "",
     "repoUrl": "",
@@ -144,7 +145,7 @@
     "description": "Studied mobile network architecture (2G/3G/4G), fiber infrastructure, and DWDM transmission systems. Analyzed protocols and contributed to network optimization and virtualization strategies (NFV).",
     "thumbnail": "assets/images/huawei-logo-1.png",
     "gallery": [
-      "assets/images/huawei-logo-1.png"
+      "assets/images/shuawei-logo-1.png"
     ],
     "video": "",
     "liveUrl": "",
